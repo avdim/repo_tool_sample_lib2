@@ -1,0 +1,2 @@
+include ':lib2'
+rootProject.name = "lib2"
