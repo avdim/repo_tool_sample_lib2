@@ -31,7 +31,7 @@ dependencies {
     implementation 'androidx.core:core-ktx:1.1.0'
     implementation 'androidx.appcompat:appcompat:1.1.0'
 
-    implementation("com.example:lib1:1.0")
+    implementation(project(":lib1"))
 
 }
 
